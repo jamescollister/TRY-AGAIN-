@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var TITLE = 'English Learners by Select School Districts in CT, 2018-19';
+  var TITLE = 'English Learners by Select School Districts in England, 2018-19';
 
   // `false` for vertical column chart, `true` for horizontal bar chart
   var HORIZONTAL = false;
@@ -21,7 +21,7 @@ $(document).ready(function() {
     {
       column: 'learner',
       name: 'Learners',
-      color: 'blue'
+      color: 'red'
     }
   ];
 
